@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node startSeed.js"
+  },
+  "dependencies": {
+    "js-md5": "^0.7.3"
+  }
+}
